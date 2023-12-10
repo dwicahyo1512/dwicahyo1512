@@ -39,10 +39,10 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter"  width="100" hight="50">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="100">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="100">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/Bootstrap.png" alt="bootstrap" width="100">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="node.js" width="100">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="100">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html-css-js.png" alt="html-css-js" width="150">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="100">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="100">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/edge.png" alt="edge" width="100" hight="50">
