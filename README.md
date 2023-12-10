@@ -1,7 +1,7 @@
 # HELLO I'M Muhamad Dwi Cahyo 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/hinata-shoyo-waving-Haikyuu.gif">
+<img hight="300" width="500" alt="GIF" align="center" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/hinata-shoyo-waving-Haikyuu.gif">
 </div>
 
 </br>
