@@ -40,7 +40,7 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter"  width="100" hight="50">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="100">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="100">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="node.js" width="180">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="node.js" width="100">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
