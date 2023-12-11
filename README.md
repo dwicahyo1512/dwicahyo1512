@@ -75,9 +75,11 @@ If you're looking to discuss, have a casual chat, or simply have fun, feel free 
 <a href="mailto:dwicahyo.1512@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/gmail.png" />
 </a>
-<a href="linkedin.com/in/muhamad-dwi-cahyo-94828625a">
+
+<a href="https://www.linkedin.com/in/muhamad-dwi-cahyo-94828625a/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/linkedin.png" />
 </a>
+
 </br>
 </br>
 </br>
