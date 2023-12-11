@@ -70,7 +70,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/6db16173c29293e2c0f63db13601a85d.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you're looking to discuss, have a casual chat, or simply have fun, feel free to reach out! I find joy in engaging and am prepared to share my experiences. 😉.
 
 <a href="mailto:dwicahyo.1512@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/gmail.png" />
