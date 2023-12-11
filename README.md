@@ -36,10 +36,10 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="140">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="100">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/csharp.png" alt="csharp" width="100">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/jquery.png" alt="jquery" width="150">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="140">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/jquery.png" alt="jquery" width="145">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="135">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="nodejs" width="140">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter" width="150">
