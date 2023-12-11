@@ -36,24 +36,24 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/csharp_dotnet.png" alt="csharp_dotnet" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/jquery.png" alt="jquery" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="nodejs" width="200">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/csharp.png" alt="csharp" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/jquery.png" alt="jquery" width="200"hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="nodejs" width="200" hight="90">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter"  width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/svelte.png" alt="svelte" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/vue.png" alt="vue" width="200">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter"  width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/svelte.png" alt="svelte" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/vue.png" alt="vue" width="200" hight="90">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="200">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="200" hight="90">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="200">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="200" hight="90">
 </p>
 </br>
 </br>
