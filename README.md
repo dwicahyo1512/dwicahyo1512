@@ -49,8 +49,8 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/vue.png" alt="vue" width="140">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="130">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="130">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="150">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="125">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="155">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="100">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="150" hight="60">
