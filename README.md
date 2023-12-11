@@ -36,7 +36,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="150" hight="80">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/php.png" alt="php" width="150" hight="60">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/csharp.png" alt="csharp" width="150" hight="50">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/jquery.png" alt="jquery" width="150"hight="90">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="150" hight="85">
