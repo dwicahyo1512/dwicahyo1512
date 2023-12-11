@@ -48,12 +48,12 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="140">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/vue.png" alt="vue" width="140">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="150" hight="60">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="150" hight="60">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="150" hight="90">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="140">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="140">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/js.png" alt="js" width="140">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="100">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="200" hight="60">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="150" hight="60">
 </p>
 </br>
 </br>
