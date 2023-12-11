@@ -48,7 +48,7 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/css.png" alt="css" width="100">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="200" hight="50">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="200" hight="50">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/visualstudio.png" alt="visualstudio" width="200">
 </p>
 </br>
 </br>
