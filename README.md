@@ -77,10 +77,10 @@ If you're looking to discuss, have a casual chat, or simply have fun, feel free 
 </a>
 <a href="linkedin.com/in/muhamad-dwi-cahyo-94828625a">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
 </a>
+</br>
+</br>
+</br>
 <a href="https://www.tiktok.com/@dev_dwicahyo">
   <img align="left" alt="tiktok" width="130" hight="100" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/tiktok.png" />
 </a>
