@@ -44,8 +44,8 @@
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter" width="170">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="150">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/svelte.png" alt="svelte" width="150">
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="150">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/svelte.png" alt="svelte" width="130">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="140">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/vue.png" alt="vue" width="140">
 </br>
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/html.png" alt="html" width="150" hight="60">
