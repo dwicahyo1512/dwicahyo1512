@@ -42,7 +42,7 @@
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/mysql.png" alt="mysql" width="135">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/nodejs.png" alt="nodejs" width="140">
 </br>
-<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter" width="170">
+<img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/codeigniter.png" alt="codeigniter" width="175">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/laravel.png" alt="laravel" width="150">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/svelte.png" alt="svelte" width="130">
 <img src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/icons/react.png" alt="react" width="140">
