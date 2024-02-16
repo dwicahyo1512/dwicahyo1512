@@ -30,7 +30,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages, framework & Tools 👨‍💻 🛠:
 </br>
 
 <p align="center">
