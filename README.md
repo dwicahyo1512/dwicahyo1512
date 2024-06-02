@@ -23,6 +23,9 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Komik
+  
+### - 🔗Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://portfoliocahyo.netlify.app/))
 
 </br>
 </br>
