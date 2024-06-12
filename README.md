@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 18 years old Fullstack developer Enthusiast from Indonesia.
+### - I'm 18 years old Fullstack Web Developer Enthusiast from Indonesia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dwicahyo1512/dwicahyo1512/blob/main/assets/EgUx.gif">
 
